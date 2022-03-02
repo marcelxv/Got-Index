@@ -1,14 +1,14 @@
 I Just Commit a React Web based app created for list all Game Of Thrones Characters and Houses
 
 
+Live project: https://got-index.vercel.app
+
 #API #frontend #components #CSS #JavaScript #react 
 Made using React 6, Axios, Redux, Webpack and CSS3, JavaScript and HTML5
 API provided by https://api.got.show/
 
-Repository: 
+Repository: https://github.com/marcelxv/Got-Index
 
-
-Live project: 
 
 
 Nexto to-do list:
